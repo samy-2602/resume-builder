@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /resume/edit/
+
+Sitemap: https://sam-scripts.com/sitemap.xml
